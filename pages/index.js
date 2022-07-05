@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>Hi! Hello world! Nejc Zajc here.</p>
         <p>
           (This is a sample website - here you can get to{' '}
-          <a href="https://vercel.com/support">vercel's support.</a>.)
+          <a href="https://vercel.com/support">vercel's support</a>.)
         </p>
       </section>
 
